@@ -1,0 +1,8 @@
+
+                            <FakeSAMP console="1" runmode="1" autorun="0" find="1" select_classid="0" manual_spawn="1"
+                                        print_timestamps="1" chatcolor_rgb="0 0 130" clientmsg_rgb="0 130 0" cpalert_rgb="170 0 0"
+                                        followplayer="Cris_Iza1" followplayerwithvehicleid="295" followXOffset="-1.5" followYOffset="1.5" followZOffset="0.0"
+                                        updatestats="1" minfps="20" maxfps="90" clientversion="0.3.7-R2">
+
+                                <server nickname="o_sugi_3" password="">193.203.39.74:7777</server>
+                            </FakeSAMP>

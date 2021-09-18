@@ -1,0 +1,735 @@
+[14:18:02.537] Connecting to 188.212.102.184:7777..
+[14:18:02.913] Connected. Joining the game...
+[14:18:05.146] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:18:05.147] Please write !spawn into the console when you're ready to spawn.
+[14:18:06.729] [CMSG] georgeboss177(1): Care vine ma la /de 
+[14:18:14.166] DialogEx -> Yeah!
+[14:18:14.168] wDialogID: 2287
+szInputResp: 
+[14:18:16.286] [CMSG] SpellShokk(VIP)(5): vin si eu la sniper ?
+[14:18:17.043] Disconnected.
+[14:23:42.909] Connecting to samp.xss-server.com:7777..
+[14:23:43.288] Connected. Joining the game...
+[14:23:45.519] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:23:45.520] Please write !spawn into the console when you're ready to spawn.
+[14:23:45.631] [CMSG] Nociv has been kicked (Login failed)!
+[14:24:05.629] Disconnected.
+[14:26:38.632] Connecting to samp.xss-server.com:7777..
+[14:26:39.054] Connected. Joining the game...
+[14:26:41.316] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:26:41.317] Please write !spawn into the console when you're ready to spawn.
+[14:26:42.285] [CMSG] Test won by georgeboss177 for being the first who typed the result: -60!
+[14:26:42.285] [CMSG] georgeboss177(1): -60
+[14:26:52.847] Connecting to samp.xss-server.com:7777..
+[14:26:53.211] Connected. Joining the game...
+[14:26:54.523] Disconnected.
+[14:26:58.033] Disconnected.
+[14:45:36.103] Connecting to samp.xss-server.com:7777..
+[14:45:36.500] Connected. Joining the game...
+[14:45:38.738] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:45:38.739] Please write !spawn into the console when you're ready to spawn.
+[14:45:56.693] [CMSG] phep_prohahanha(6): dua ko
+[14:46:08.497] Disconnected.
+[14:47:27.855] Connecting to samp.xss-server.com:7777..
+[14:47:28.267] Connected. Joining the game...
+[14:47:30.466] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:47:30.467] Please write !spawn into the console when you're ready to spawn.
+[14:47:47.116] DialogEx -> Yeah!
+[14:47:47.117] wDialogID: 2287
+szInputResp: 
+[14:47:49.161] Disconnected.
+[14:49:55.626] Connecting to samp.xss-server.com:7777..
+[14:49:56.004] Connected. Joining the game...
+[14:49:58.252] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:49:58.254] Please write !spawn into the console when you're ready to spawn.
+[14:50:05.507] DialogEx -> Yeah!
+[14:50:05.508] wDialogID: 2287
+szInputResp: 
+[14:50:08.328] Disconnected.
+[14:50:39.053] Connecting to samp.xss-server.com:7777..
+[14:50:39.445] Connected. Joining the game...
+[14:50:41.667] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:50:41.668] Please write !spawn into the console when you're ready to spawn.
+[14:54:30.055] Disconnected.
+[14:55:19.994] Connecting to samp.xss-server.com:7777..
+[14:55:20.361] Connected. Joining the game...
+[14:55:22.591] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:55:22.592] Please write !spawn into the console when you're ready to spawn.
+[14:55:39.988] DialogEx -> Yeah!
+[14:55:39.989] wDialogID: 2287
+szInputResp: 
+[14:55:41.720] Disconnected.
+[14:56:26.084] Connecting to samp.xss-server.com:7777..
+[14:56:26.481] Connected. Joining the game...
+[14:56:28.689] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[14:56:28.691] Please write !spawn into the console when you're ready to spawn.
+[14:56:39.799] Disconnected.
+[14:57:28.478] Connecting to samp.xss-server.com:7777..
+[14:57:28.877] Connected. Joining the game...
+[14:57:30.160] Disconnected.
+[14:58:02.691] Connecting to samp.xss-server.com:7777..
+[14:58:03.130] Connected. Joining the game...
+[14:58:03.568] Disconnected.
+[14:58:54.567] Connecting to samp.xss-server.com:7777..
+[14:58:54.959] Connected. Joining the game...
+[14:58:55.488] Disconnected.
+[15:04:31.055] Connecting to samp.xss-server.com:7777..
+[15:04:31.420] Connected. Joining the game...
+[15:04:32.671] Disconnected.
+[15:05:00.316] Connecting to samp.xss-server.com:7777..
+[15:05:00.808] Disconnected.
+[15:07:30.251] Connecting to samp.xss-server.com:7777..
+[15:07:30.647] Connected. Joining the game...
+[15:07:32.831] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[15:07:32.832] Please write !spawn into the console when you're ready to spawn.
+[15:07:32.986] [CMSG] AlbertoM4BMWfortza(0): alberto_regee
+[15:07:39.142] Disconnected.
+[15:08:31.909] Connecting to samp.xss-server.com:7777..
+[15:08:32.286] Connected. Joining the game...
+[15:08:34.424] Disconnected.
+[15:08:34.553] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[15:10:06.287] Connecting to samp.xss-server.com:7777..
+[15:10:06.701] Connected. Joining the game...
+[15:10:09.037] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[15:10:09.038] Please write !spawn into the console when you're ready to spawn.
+[15:10:16.222] [CMSG] ACW: Kicking player 'AlbertoM4BMWfortza'. Reason: Using auto-aim!
+[15:10:17.323] DialogEx -> Yeah!
+[15:10:17.324] wDialogID: 2287
+szInputResp: 
+[15:10:20.718] Disconnected.
+[15:10:56.208] Connecting to samp.xss-server.com:7777..
+[15:10:56.654] Connected. Joining the game...
+[15:10:58.853] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[15:10:58.854] Please write !spawn into the console when you're ready to spawn.
+[15:12:17.445] Disconnected.
+[15:18:09.678] Connecting to samp.xss-server.com:7777..
+[15:18:10.107] Connected. Joining the game...
+[15:18:12.343] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[15:18:12.344] Please write !spawn into the console when you're ready to spawn.
+[15:18:23.446] Disconnected.
+[15:21:00.304] Connecting to samp.xss-server.com:7777..
+[15:21:00.686] Connected. Joining the game...
+[15:21:02.909] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[15:21:02.910] Please write !spawn into the console when you're ready to spawn.
+[15:21:05.021] Disconnected.
+[18:19:55.975] Connecting to samp.xss-server.com:7777..
+[18:20:08.615] [SAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[18:20:19.527] Disconnected.
+[18:22:07.273] Connecting to samp.xss-server.com:7777..
+[18:22:07.819] Connected. Joining the game...
+[18:22:09.865] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[18:22:09.867] Please write !spawn into the console when you're ready to spawn.
+[18:22:10.163] [CMSG] RACE: Blo0dy2k1 finished Stunts Way on 1st place in 3:39 minutes!
+[18:22:29.894] [CMSG] RACE: Way of Oil has started! Type /race 14 to join!
+[18:22:32.138] Disconnected.
+[18:31:06.430] Connecting to samp.xss-server.com:7777..
+[18:31:06.852] Connected. Joining the game...
+[18:31:07.296] Disconnected.
+[18:31:12.500] Connecting to samp.xss-server.com:7777..
+[18:31:12.911] Connected. Joining the game...
+[18:31:13.903] Disconnected.
+[18:37:50.648] Connecting to samp.xss-server.com:7777..
+[18:37:51.087] Connected. Joining the game...
+[18:37:53.320] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[18:37:53.324] Please write !spawn into the console when you're ready to spawn.
+[18:37:56.193] DialogEx -> Yeah!
+[18:37:56.195] wDialogID: 2287
+szInputResp: 
+[18:37:57.616] Disconnected.
+[18:38:09.308] Connecting to samp.xss-server.com:7777..
+[18:38:09.703] Connected. Joining the game...
+[18:38:12.030] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[18:38:12.031] Please write !spawn into the console when you're ready to spawn.
+[18:38:12.070] Disconnected.
+[18:47:15.476] Connecting to samp.xss-server.com:7777..
+[18:47:15.902] Connected. Joining the game...
+[18:47:16.567] Disconnected.
+[18:47:32.524] Connecting to samp.xss-server.com:7777..
+[18:47:32.902] Connected. Joining the game...
+[18:47:33.606] Disconnected.
+[18:50:57.599] Connecting to 91.121.87.14:9368..
+[18:50:58.199] Connected. Joining the game...
+[18:50:58.470] [CMSG] VOICE-CHAT: Voicechat developed by David2k!
+[18:50:58.471] [CMSG] VOICE-CHAT: Voicechat developed by David2k!
+[18:50:58.471] [CMSG] VOICE-CHAT: Press 'B' to speaking!
+[18:50:58.863] [GAMETEXT] ~n~~n~~n~~n~~n~~n~~n~~n~~n~~y~LOADING YOUR ACCOUNT...~n~~w~~h~Please wait!
+[18:51:00.205] Connected to NEW-WAIT RPG | Ultra-h.com
+[18:51:00.207] Please write !spawn into the console when you're ready to spawn.
+[18:51:01.959] [CMSG] ----------------------------------------------------------------------
+[18:51:01.962] [CMSG] | This server is hosted by Ultra-H.com |
+[18:51:01.965] [CMSG] ----------------------------------------------------------------------
+[18:51:05.660] You have been spawned!
+[18:51:05.754] [CMSG] * Ai primit kick deoarece nu te-ai logat.
+[18:51:05.974] [GAMETEXT]  
+[18:51:05.974] [SELECTABLE-TEXTDRAW] ID: 2169, Text: click here.
+[18:51:05.974] [SELECTABLE-TEXTDRAW] ID: 2170, Text: click here.
+[18:51:05.975] [SELECTABLE-TEXTDRAW] ID: 2171, Text: click here.
+[18:51:05.975] [SELECTABLE-TEXTDRAW] ID: 2172, Text: click here.
+[18:51:05.975] [SELECTABLE-TEXTDRAW] ID: 2173, Text: click here.
+[18:51:05.976] [SELECTABLE-TEXTDRAW] ID: 2174, Text: larian_pasarik.
+[18:51:05.976] [SELECTABLE-TEXTDRAW] ID: 62, Text: REGISTER.
+[18:51:05.976] [SELECTABLE-TEXTDRAW] ID: 63, Text: CANCEL.
+[18:51:11.954] Connecting to 91.121.87.14:9368..
+[18:51:12.334] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[18:51:12.473] Connected. Joining the game...
+[18:51:12.581] [CMSG] VOICE-CHAT: Voicechat developed by David2k!
+[18:51:12.582] [CMSG] VOICE-CHAT: Voicechat developed by David2k!
+[18:51:12.582] [CMSG] VOICE-CHAT: Press 'B' to speaking!
+[18:51:13.164] [GAMETEXT] ~n~~n~~n~~n~~n~~n~~n~~n~~n~~y~LOADING YOUR ACCOUNT...~n~~w~~h~Please wait!
+[18:51:14.520] Connected to NEW-WAIT RPG | Ultra-h.com
+[18:51:14.521] Please write !spawn into the console when you're ready to spawn.
+[18:51:15.723] [CMSG] ----------------------------------------------------------------------
+[18:51:15.724] [CMSG] | This server is hosted by Ultra-H.com |
+[18:51:15.725] [CMSG] ----------------------------------------------------------------------
+[18:51:19.777] You have been spawned!
+[18:51:19.780] [GAMETEXT]  
+[18:51:20.225] [SELECTABLE-TEXTDRAW] ID: 2169, Text: click here.
+[18:51:20.226] [SELECTABLE-TEXTDRAW] ID: 2170, Text: click here.
+[18:51:20.227] [SELECTABLE-TEXTDRAW] ID: 2171, Text: click here.
+[18:51:20.228] [SELECTABLE-TEXTDRAW] ID: 2172, Text: click here.
+[18:51:20.229] [SELECTABLE-TEXTDRAW] ID: 2173, Text: click here.
+[18:51:20.230] [SELECTABLE-TEXTDRAW] ID: 2174, Text: larian_pasarik_2.
+[18:51:20.231] [SELECTABLE-TEXTDRAW] ID: 62, Text: REGISTER.
+[18:51:20.237] [SELECTABLE-TEXTDRAW] ID: 63, Text: CANCEL.
+[18:51:20.238] [CMSG] * Ai primit kick deoarece nu te-ai logat.
+[18:51:22.958] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[19:01:53.081] Connecting to samp.xss-server.com:7777..
+[19:01:53.521] Connected. Joining the game...
+[19:01:55.725] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[19:01:55.726] Please write !spawn into the console when you're ready to spawn.
+[19:01:55.932] [CMSG] Test won by BioHex for being the first who typed RaX31L!
+[19:01:55.933] [CMSG] BioHex(3): RaX31L
+[19:02:44.067] Disconnected.
+[19:07:22.567] Connecting to samp.xss-server.com:7777..
+[19:07:23.020] Connected. Joining the game...
+[19:07:25.217] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[19:07:25.218] Please write !spawn into the console when you're ready to spawn.
+[19:07:59.316] [CMSG] BioHex(3): HAI SUS
+[19:08:00.630] Connecting to samp.xss-server.com:7777..
+[19:08:01.041] Connected. Joining the game...
+[19:08:02.474] [CMSG] BioHex(3): deluta
+[19:08:03.239] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+[19:08:03.240] Please write !spawn into the console when you're ready to spawn.
+[19:08:03.379] [CMSG] BioHex(3): deluta
+[19:08:47.632] [CMSG] drgprogamer(1): ,alooo, taxi
+[19:08:47.648] [CMSG] drgprogamer(1): ,alooo, taxi
+[19:08:56.180] Disconnected.
+[19:08:57.439] [CMSG] BioHex(3): Ba
+[19:08:57.581] Disconnected.
+[19:15:08.459] Connecting to samp.xss-server.com:7777..
+[19:15:08.864] Connected. Joining the game...
+[19:15:09.180] Disconnected.
+[19:15:35.230] Connecting to samp.xss-server.com:7777..
+[19:15:35.643] Connected. Joining the game...
+[19:15:36.124] Disconnected.
+[19:16:30.052] Connecting to samp.xss-server.com:7777..
+[19:16:30.412] Connected. Joining the game...
+[19:16:31.843] Disconnected.
+[19:16:45.801]  
+[19:16:45.802] * ===================================================== *
+[19:16:45.805]   Hack iniciado 13/02/2021 19:16:45
+[19:16:45.808] * ===================================================== *
+[19:16:45.810]  
+[19:16:45.811] Connecting to samp.xss-server.com:7777..
+[19:16:46.280] Connected. Joining the game...
+[19:16:48.395] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[19:16:48.401] Please write !spawn into the console when you're ready to spawn.
+[19:16:52.502] DialogEx -> Yeah!
+[19:16:52.504] wDialogID: 2287
+szInputResp: 
+[19:16:53.154] Disconnected.
+[19:16:58.549]  
+[19:16:58.551] * ===================================================== *
+[19:16:58.555]   Hack iniciado 13/02/2021 19:16:58
+[19:16:58.556] * ===================================================== *
+[19:16:58.558]  
+[19:16:58.559] Connecting to samp.xss-server.com:7777..
+[19:16:58.986] Connected. Joining the game...
+[19:17:00.574] Disconnected.
+[19:17:51.517] RCON mode initialized (samp.xss-server.com:7777). Type login [password] to set the password.
+[19:18:49.052]  
+[19:18:49.053] * ===================================================== *
+[19:18:49.056]   Hack iniciado 13/02/2021 19:18:49
+[19:18:49.058] * ===================================================== *
+[19:18:49.061]  
+[19:18:49.062] Connecting to samp.xss-server.com:7777..
+[19:18:49.424] Connected. Joining the game...
+[19:18:51.646] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[19:19:09.782] DialogEx -> Yeah!
+[19:19:09.784] wDialogID: 2287
+szInputResp: 
+[19:19:12.942] Disconnected.
+[19:21:29.717]  
+[19:21:29.718] * ===================================================== *
+[19:21:29.721]   Hack iniciado 13/02/2021 19:21:29
+[19:21:29.723] * ===================================================== *
+[19:21:29.725]  
+[19:21:29.725] Connecting to samp.xss-server.com:7777..
+[19:21:30.176] Connected. Joining the game...
+[19:21:32.344] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[19:21:33.606] DialogEx -> Yeah!
+[19:21:33.608] wDialogID: 2287
+szInputResp: 
+[19:21:35.685] Disconnected.
+[19:23:19.404]  
+[19:23:19.405] * ===================================================== *
+[19:23:19.409]   Hack iniciado 13/02/2021 19:23:19
+[19:23:19.410] * ===================================================== *
+[19:23:19.412]  
+[19:23:19.413] Connecting to samp.xss-server.com:7777..
+[19:23:19.803] Connected. Joining the game...
+[19:23:21.990] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[19:23:22.130] [CMSG] deea112(5): stai ce nenorocitule
+[19:23:38.633] [CMSG] BioHex(3): Cum drq e inca in masina
+[19:23:40.174] DialogEx -> Yeah!
+[19:23:40.176] wDialogID: 2287
+szInputResp: 
+[19:23:42.755] [CMSG] BioHex(3): ASA
+[19:23:44.598] Disconnected.
+[19:29:22.460]  
+[19:29:22.462] * ===================================================== *
+[19:29:22.465]   Hack iniciado 13/02/2021 19:29:22
+[19:29:22.467] * ===================================================== *
+[19:29:22.469]  
+[19:29:22.470] Connecting to samp.xss-server.com:7777..
+[19:29:23.187] Connected. Joining the game...
+[19:29:25.250] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[19:29:34.364] [CMSG] deea112(5): cine vine dupa,mine 
+[19:29:53.533] [CMSG] drgprogamer(1): unde esti
+[19:29:53.800] [CMSG] BioHex(3): vine acuma drg ca a zis ca se duce la curve
+[19:30:17.307] [CMSG] deea112(5): hai ma iartamA
+[19:30:18.477] DialogEx -> Yeah!
+[19:30:18.479] wDialogID: 2287
+szInputResp: 
+[19:30:21.655] Disconnected.
+[00:21:06.594]  
+[00:21:06.595] * ===================================================== *
+[00:21:06.599]   Hack iniciado 14/02/2021 00:21:06
+[00:21:06.601] * ===================================================== *
+[00:21:06.606]  
+[00:21:06.607] Connecting to 193.203.39.74:7777..
+[00:21:07.016] Connected. Joining the game...
+[00:21:09.703] Connected to Romania HarD Stunt - Let's Play!
+
+[00:21:41.588]  
+[00:21:41.590] * ===================================================== *
+[00:21:41.593]   Hack iniciado 14/02/2021 00:21:41
+[00:21:41.594] * ===================================================== *
+[00:21:41.597]  
+[00:21:41.598] Connecting to 193.203.39.74:7777..
+[00:21:41.946] Connected. Joining the game...
+[00:21:44.674] Connected to Romania HarD Stunt - Let's Play!
+
+[00:22:09.509] [CMSG] RHSBuster: Kicking player 'killer_pasarik'. Reason: Failed to login/register!
+[00:22:09.509] [CMSG] RHSBuster: Kicking player 'killer_pasarik'. Reason: Failed to login/register!
+[00:22:09.512] [CMSG] You have been kicked because you have only 60 seconds to login/register!
+[00:22:09.515] [CMSG] This is a protection againsts bots, sorry for the inconvenience.
+[00:22:12.131] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[00:22:29.144] Disconnected.
+[00:22:30.328] Disconnected.
+[15:10:08.976]  
+[15:10:08.978] * ===================================================== *
+[15:10:08.981]   Hack iniciado 14/02/2021 15:10:08
+[15:10:08.982] * ===================================================== *
+[15:10:08.984]  
+[15:10:08.984] Connecting to samp.xss-server.com:7777..
+[15:10:09.351] Connected. Joining the game...
+[15:10:11.599] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[15:10:15.333] [CMSG] [XSS]xProGeo(Admin)(2): what?
+[15:10:19.355] [CMSG] VNRC_Bomm(3): no
+[15:10:23.285] Disconnected.
+[22:58:02.502]  
+[22:58:02.503] * ===================================================== *
+[22:58:02.506]   Hack iniciado 14/02/2021 22:58:02
+[22:58:02.508] * ===================================================== *
+[22:58:02.510]  
+[22:58:02.510] Connecting to samp.xss-server.com:7777..
+[22:58:03.012] Connected. Joining the game...
+[22:58:05.181] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[22:58:15.840] [CMSG] winderVEVO(VIP)(1): daca mama imi mai ciordeste internetu nu o sa fiu capabil de acest lucru
+[22:58:16.199] [CMSG] blonduVERSACE(VIP)(7): mihai prostu
+[22:58:48.546] [CMSG] winderVEVO(VIP)(1): dupa cum am mai zis
+[22:58:52.552] [CMSG] winderVEVO(VIP)(1): 10s sa fugo
+[22:58:56.300] [CMSG] winderVEVO(VIP)(1): 1
+[22:58:57.040] [CMSG] winderVEVO(VIP)(1): 2
+[22:58:57.569] [CMSG] winderVEVO(VIP)(1): 3
+[22:58:58.930] [CMSG] winderVEVO(VIP)(1): 4
+[22:59:00.111] [CMSG] winderVEVO(VIP)(1): 5
+[22:59:01.233] [CMSG] winderVEVO(VIP)(1): 6
+[22:59:01.374] [CMSG] blonduVERSACE(VIP)(7): sugi pula
+[22:59:04.495] Disconnected.
+[23:12:40.190]  
+[23:12:40.191] * ===================================================== *
+[23:12:40.195]   Hack iniciado 14/02/2021 23:12:40
+[23:12:40.196] * ===================================================== *
+[23:12:40.199]  
+[23:12:40.200] Connecting to samp.xss-server.com:7777..
+[23:12:40.611] Connected. Joining the game...
+[23:12:42.839] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[23:12:45.364]  
+[23:12:45.365] * ===================================================== *
+[23:12:45.367]   Hack iniciado 14/02/2021 23:12:45
+[23:12:45.369] * ===================================================== *
+[23:12:45.372]  
+[23:12:45.372] Connecting to samp.xss-server.com:7777..
+[23:12:45.748] Connected. Joining the game...
+[23:12:47.962] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[23:14:10.450]  
+[23:14:10.452] * ===================================================== *
+[23:14:10.454]   Hack iniciado 14/02/2021 23:14:10
+[23:14:10.456] * ===================================================== *
+[23:14:10.461]  
+[23:14:10.462] Connecting to rpg.b-hood.ro:7777..
+[23:14:10.797] Connected. Joining the game...
+[23:14:15.193] Connected to B-HOOD RPG | Race Arena Update | 2x Payday
+
+[23:14:15.800] [GAMETEXT] ~w~~n~~n~~n~~n~~n~~n~~n~~n~~n~~y~Loading your account...~n~~w~Please wait!
+[23:14:15.846] [GAMETEXT]  
+[23:14:25.440] [CMSG] (( Crate: ClaudiuEC opened a frozen crate and won Rainbow Ticket. ))
+[23:14:45.523] [CMSG] (( Info: VGA completed successfully the 'Special Quest', congratulations! ))
+[23:14:50.431] Disconnected.
+[23:14:55.414] Disconnected.
+[23:14:56.102] Disconnected.
+[23:18:42.902]  
+[23:18:42.903] * ===================================================== *
+[23:18:42.906]   Hack iniciado 14/02/2021 23:18:42
+[23:18:42.907] * ===================================================== *
+[23:18:42.909]  
+[23:18:42.910] Connecting to samp.xss-server.com:7777..
+[23:18:43.432] Connected. Joining the game...
+[23:18:45.807] Connected to eXtreme Super Stunt [RO/EN] Join Us!
+
+[23:20:10.480]  
+[23:20:10.482] * ===================================================== *
+[23:20:10.486]   Hack iniciado 14/02/2021 23:20:10
+[23:20:10.487] * ===================================================== *
+[23:20:10.489]  
+[23:20:10.489] Connecting to 193.203.39.78:7777..
+[23:20:13.350] [SAMP] Invalid password. Reconnecting in 2 seconds.
+[23:20:55.340]  
+[23:20:55.342] * ===================================================== *
+[23:20:55.344]   Hack iniciado 14/02/2021 23:20:55
+[23:20:55.345] * ===================================================== *
+[23:20:55.348]  
+[23:20:55.349] Connecting to samp.rss-ro.com:7777..
+[23:20:55.726] Connected. Joining the game...
+[23:20:59.042] Connected to Romania Super Stunt - Join Us!
+
+[23:20:59.182] [CMSG] [LA.Squad]SANDWAVE(VIP)(54): PIIUAA
+[23:20:59.230] [CMSG] Administrator ..sinNeer_420 has jailed edu.presedinte for 5 minutes [reason: DriveBy/Car DM]
+[23:20:59.235] [CMSG] Raul05(VIP)(2): kill someone 
+[23:21:00.380] [CMSG] Raul05(VIP)(2): i like
+[23:21:00.521] [CMSG] Administrator ..sinNeer_420 has jailed BadZeus for 5 minutes [reason: DriveBy/Car DM]
+[23:21:02.223] [CMSG] [T4L.OuTlawz]g0d_(VIP)(16): doamne cum dai cu ala
+[23:21:03.934] [CMSG] _Denisa_(VIP)(14): BAMBUI IA TI MANA=()
+[23:21:04.822] Disconnected.
+[23:21:04.832] [CMSG] Ryuuzaki.(VIP)(0): v a luat iubi cadou?
+[23:21:51.144]  
+[23:21:51.145] * ===================================================== *
+[23:21:51.148]   Hack iniciado 14/02/2021 23:21:51
+[23:21:51.150] * ===================================================== *
+[23:21:51.152]  
+[23:21:51.153] Connecting to samp.rss-ro.com:7777..
+[23:21:51.523] Connected. Joining the game...
+[23:21:53.330] Connected to Romania Super Stunt - Join Us!
+
+[23:21:53.515] [CMSG] [LA.Squad]SANDWAVE(VIP)(54): CE FACETI BAIETI AICI
+[23:21:53.518] [CMSG] Ryuuzaki.(VIP)(0): =))
+[23:21:53.520] [CMSG] [Politist]Ramsess(37): milsugio
+[23:21:53.656] [CMSG] [T4L.OuTlawz]ENRIQUE(Admin)(15): lol
+[23:21:53.704] Disconnected.
+[23:23:05.311]  
+[23:23:05.313] * ===================================================== *
+[23:23:05.317]   Hack iniciado 14/02/2021 23:23:05
+[23:23:05.318] * ===================================================== *
+[23:23:05.321]  
+[23:23:05.322] Connecting to 193.203.39.216:7777..
+[23:23:06.919] Disconnected.
+[23:23:18.091] [CMSG] iuliShiAtat(2): sall
+[23:23:21.835] [CMSG] iuliShiAtat(2): cf ceti
+[23:24:12.447] [CMSG] First who type pXSVDQ win 1133$ + 1 Coins!
+[23:24:19.750] [CMSG] Test won by iuliShiAtat for being the first who typed pXSVDQ!
+[23:24:19.753] [CMSG] iuliShiAtat(2): pXSVDQ
+[23:26:03.384] Disconnected.
+[21:56:31.064]  
+[21:56:31.067] * ===================================================== *
+[21:56:31.070]   Hack iniciado 23/02/2021 21:56:31
+[21:56:31.071] * ===================================================== *
+[21:56:31.073]  
+[21:56:31.074] Connecting to 193.203.39.74:7777..
+[21:56:31.442] Connected. Joining the game...
+[21:56:34.232] Connected to Romania HarD Stunt - /Gifts: Reward VIP!
+
+[21:56:56.877]  
+[21:56:56.877] * ===================================================== *
+[21:56:56.879]   Hack iniciado 23/02/2021 21:56:56
+[21:56:56.881] * ===================================================== *
+[21:56:56.884]  
+[21:56:56.885] Connecting to 193.203.39.74:7777..
+[21:56:57.220] Connected. Joining the game...
+[21:56:59.959] Connected to Romania HarD Stunt - /Gifts: Reward VIP!
+
+[21:57:16.438] [GAMETEXT] ~y~~h~You Need $ or Coins ? ~n~~y~~h~Try ~r~~h~~h~/minigames, /jobs~y~~h~!
+[21:57:16.454] [GAMETEXT] ~y~~h~You need a vehicle ? ~n~~y~~h~Use ~r~~h~~h~/Car, /V~y~~h~!
+[21:57:16.956] [CMSG] Administrator [sF.Legends]ReeDy has restored all players Health and Armour that are not Death Match Zone!
+[21:57:16.971] [CMSG] Administrator [sF.Legends]ReeDy has restored all players Health and Armour that are not Death Match Zone!
+[21:57:17.965] [CMSG] All unused cars will be respawn in 10 seconds by Administrator [sF.Legends]ReeDy!
+[21:57:17.981] [CMSG] All unused cars will be respawn in 10 seconds by Administrator [sF.Legends]ReeDy!
+[21:57:23.047] Disconnected.
+[21:57:24.687] Disconnected.
+[22:03:43.095]  
+[22:03:43.098] * ===================================================== *
+[22:03:43.101]   Hack iniciado 19/03/2021 22:03:43
+[22:03:43.102] * ===================================================== *
+[22:03:43.105]  
+[22:03:43.105] Connecting to 193.203.39.74:7777..
+[22:03:43.412] Connected. Joining the game...
+[22:03:46.136] Connected to Romania HarD Stunt - Let's Play!
+
+[22:03:46.215] [GAMETEXT] ~y~~h~Do you like DM ? ~n~~y~~h~Try ~r~~h~~h~/De, /MG, /DM~y~~h~!
+[22:03:46.218] [CMSG] [Drift.Team]_K1L3R_(RCON)(4): asta e sinsiter? )
+[22:03:47.789] [CMSG] Raven)(VIP)(3): urs
+[22:03:49.704] [CMSG] Ursescu(RCON)(1): ?
+[22:03:49.907] [CMSG] HeyImAle_(Emperor)(8): cn esti tu sa vorbesti cu fa cu mn?
+[22:03:52.051]  
+[22:03:52.052] * ===================================================== *
+[22:03:52.055]   Hack iniciado 19/03/2021 22:03:52
+[22:03:52.056] * ===================================================== *
+[22:03:52.059]  
+[22:03:52.060] Connecting to 193.203.39.74:7777..
+[22:03:52.420] Connected. Joining the game...
+[22:03:52.715] [CMSG] ampiramide(2): ce sinister
+[22:03:55.118] Connected to Romania HarD Stunt - /BuyVIP: It's Free!
+
+[22:03:55.195] [CMSG] ampiramide(2): ce sinister
+[22:03:56.177] [CMSG] Raven)(VIP)(3): can u come to /de ?t
+[22:03:57.887] [CMSG] Raven)(VIP)(3): 1 sec
+[22:04:06.555] [CMSG] ampiramide(2): sunt sef pe sate la carat balotz
+[22:04:06.555] [CMSG] ampiramide(2): sunt sef pe sate la carat balotz
+[22:04:06.663] [CMSG] ==============(Range Ban Details)===============
+[22:04:06.665] [CMSG] ampiramide has been range banned by Admin [Drift.Team]_K1L3R_!
+[22:04:06.668] [CMSG] Reason: afarata ghost botul lui
+[22:04:06.669] [CMSG] Reason: afarata ghost botul lui
+[22:04:06.670] [CMSG] ============================================
+[22:04:06.670] [CMSG] ============================================
+[22:04:27.936] [SAMP] The connection was lost. Reconnecting in 2 seconds.
+[22:04:27.998] [SAMP] The connection was lost. Reconnecting in 2 seconds.
+[22:08:34.675]  
+[22:08:34.676] * ===================================================== *
+[22:08:34.679]   Hack iniciado 19/03/2021 22:08:34
+[22:08:34.680] * ===================================================== *
+[22:08:34.683]  
+[22:08:34.684] Connecting to 93.203.39.74:7777..
+[22:08:38.947]  
+[22:08:38.948] * ===================================================== *
+[22:08:38.951]   Hack iniciado 19/03/2021 22:08:38
+[22:08:38.952] * ===================================================== *
+[22:08:38.954]  
+[22:08:38.955] Connecting to 93.203.39.74:7777..
+[22:08:43.369] [SAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[22:08:45.305] Disconnected.
+[22:10:16.389]  
+[22:10:16.391] * ===================================================== *
+[22:10:16.393]   Hack iniciado 19/03/2021 22:10:16
+[22:10:16.395] * ===================================================== *
+[22:10:16.397]  
+[22:10:16.398] Connecting to 93.203.39.74:7777..
+[22:10:25.089] [SAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[22:11:25.499]  
+[22:11:25.501] * ===================================================== *
+[22:11:25.505]   Hack iniciado 19/03/2021 22:11:25
+[22:11:25.507] * ===================================================== *
+[22:11:25.509]  
+[22:11:25.510] Connecting to 93.203.39.74:7777..
+[22:11:34.207] [SAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[22:11:55.512]  
+[22:11:55.514] * ===================================================== *
+[22:11:55.517]   Hack iniciado 19/03/2021 22:11:55
+[22:11:55.518] * ===================================================== *
+[22:11:55.520]  
+[22:11:55.521] Connecting to 93.203.39.74:7777..
+[22:12:00.968] Disconnected.
+[22:13:14.164]  
+[22:13:14.165] * ===================================================== *
+[22:13:14.169]   Hack iniciado 19/03/2021 22:13:14
+[22:13:14.170] * ===================================================== *
+[22:13:14.172]  
+[22:13:14.175] Connecting to 185.248.139.39:7777..
+[22:13:14.526] Connected. Joining the game...
+[22:13:46.795] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[22:14:25.830]  
+[22:14:25.833] * ===================================================== *
+[22:14:25.836]   Hack iniciado 19/03/2021 22:14:25
+[22:14:25.838] * ===================================================== *
+[22:14:25.840]  
+[22:14:25.842] Connecting to 193.203.39.74:7777..
+[22:14:26.195] Connected. Joining the game...
+[22:14:27.684] Connected to Romania HarD Stunt - /BuyVIP: It's Free!
+
+[22:14:31.212] [CMSG] HeyImAle_(Emperor)(8): fi atent ce ii fac la dacie
+[22:14:32.273] [CMSG] Raven)(VIP)(0): wtf
+[22:14:38.185]  
+[22:14:38.187] * ===================================================== *
+[22:14:38.189]   Hack iniciado 19/03/2021 22:14:38
+[22:14:38.191] * ===================================================== *
+[22:14:38.192]  
+[22:14:38.193] Connecting to 193.203.39.74:7777..
+[22:14:38.524] Connected. Joining the game...
+[22:14:41.158] Connected to Romania HarD Stunt - /BuyVIP: It's Free!
+
+[22:14:41.719] [CMSG] Raven)(VIP)(0): im just free roaming
+[22:14:41.749] [CMSG] Raven)(VIP)(0): im just free roaming
+[22:14:45.066] [CMSG] Raven)(VIP)(0): isnt that allowed?
+[22:14:49.557] [CMSG] Marius346(VIP)(2): Partidul Comunist Chinez
+[22:14:51.469] [CMSG] Ursescu(RCON)(1): s0b is prohibited
+[22:14:52.715] [CMSG] Marius346(VIP)(2): car inf
+[22:14:56.331] [CMSG] Raven)(VIP)(0): hm
+[22:14:56.845] [CMSG] o_dau_in_buci_2 has been kicked by Admin [Drift.Team]_K1L3R_!
+[22:14:56.848] [CMSG] Reason: afara (Kicks: 1/3)
+[22:14:57.016] [CMSG] Raven)(VIP)(0): ok
+[22:14:59.415] Disconnected.
+[22:15:00.712] Disconnected.
+[22:15:26.454]  
+[22:15:26.457] * ===================================================== *
+[22:15:26.461]   Hack iniciado 19/03/2021 22:15:26
+[22:15:26.462] * ===================================================== *
+[22:15:26.465]  
+[22:15:26.465] Connecting to 193.203.39.74:7777..
+[22:15:26.792] Connected. Joining the game...
+[22:15:29.446] Connected to Romania HarD Stunt - /BuyVIP: It's Free!
+
+[22:15:31.243] [CMSG] o_dau_in_buci_killer has been kicked by Admin [Drift.Team]_K1L3R_!
+[22:15:31.246] [CMSG] Reason: afara (Kicks: 1/3)
+[22:15:31.328]  
+[22:15:31.329] * ===================================================== *
+[22:15:31.333]   Hack iniciado 19/03/2021 22:15:31
+[22:15:31.336] * ===================================================== *
+[22:15:31.338]  
+[22:15:31.341] Connecting to 193.203.39.74:7777..
+[22:15:31.697] Connected. Joining the game...
+[22:15:33.934] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[22:15:34.386] Connected to Romania HarD Stunt - /BuyVIP: It's Free!
+
+[22:15:34.744] [CMSG] Ursescu(RCON)(1): claros
+[22:15:37.417] [CMSG] Ursescu(RCON)(1): ban direct
+[22:15:48.903] [CMSG] HeyImAle_(Emperor)(8): poti face oare?
+[22:15:51.704] [CMSG] ================(Ban Details)================
+[22:15:51.707] [CMSG] o_dau_in_buci_killer has been banned by Admin [Drift.Team]_K1L3R_ for 99 day(s)!
+[22:15:51.710] [CMSG] Reason: ghost cf?
+[22:15:51.712] [CMSG] ==========================================
+[22:15:51.714] [CMSG] 
+[22:15:51.715] [CMSG] 
+[22:15:51.716] [CMSG] 
+[22:15:51.716] [CMSG] 
+[22:15:51.717] [CMSG] 
+[22:15:51.718] [CMSG] 
+[22:15:51.718] [CMSG] 
+[22:15:51.720] [CMSG] 
+[22:15:51.722] [CMSG] 
+[22:15:51.723] [CMSG] 
+[22:15:51.724] [CMSG] 
+[22:15:51.724] [CMSG] 
+[22:15:51.725] [CMSG] 
+[22:15:51.726] [CMSG] 
+[22:15:51.726] [CMSG] 
+[22:15:51.728] [CMSG] 
+[22:15:51.728] [CMSG] 
+[22:15:51.729] [CMSG] 
+[22:15:51.730] [CMSG] 
+[22:15:51.731] [CMSG] 
+[22:15:51.732] [CMSG] 
+[22:15:51.732] [CMSG] 
+[22:15:51.733] [CMSG] 
+[22:15:51.734] [CMSG] 
+[22:15:51.735] [CMSG] 
+[22:15:51.737] [CMSG] 
+[22:15:51.738] [CMSG] 
+[22:15:51.738] [CMSG] 
+[22:15:51.740] [CMSG] 
+[22:15:53.645]  
+[22:15:53.646] * ===================================================== *
+[22:15:53.649]   Hack iniciado 19/03/2021 22:15:53
+[22:15:53.651] * ===================================================== *
+[22:15:53.654]  
+[22:15:53.655] Connecting to 193.203.39.74:7777..
+[22:15:54.377] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[22:15:54.001] Connected. Joining the game...
+[22:15:59.713] Disconnected.
+[22:16:01.961] Disconnected.
+[22:16:02.913] Disconnected.
+[22:17:42.410]  
+[22:17:42.411] * ===================================================== *
+[22:17:42.414]   Hack iniciado 19/03/2021 22:17:42
+[22:17:42.416] * ===================================================== *
+[22:17:42.417]  
+[22:17:42.418] Connecting to 193.203.39.74:7777..
+[22:17:42.986] Connected. Joining the game...
+[22:17:45.632] Connected to Romania HarD Stunt - Let's Play!
+
+[22:17:45.711] [CMSG] HeyImAle_(Emperor)(8): e andling by ruben
+[22:17:46.601] [CMSG] HeyImAle_(Emperor)(8): :)
+[22:17:48.211] [CMSG] Ursescu(RCON)(1): aa
+[22:17:51.624] [CMSG] killer.pasarik has been kicked by Admin [Drift.Team]_K1L3R_!
+[22:17:51.628] [CMSG] Reason: bot (Kicks: 1/3)
+[22:17:53.198]  
+[22:17:53.199] * ===================================================== *
+[22:17:53.202]   Hack iniciado 19/03/2021 22:17:53
+[22:17:53.203] * ===================================================== *
+[22:17:53.205]  
+[22:17:53.206] Connecting to 193.203.39.74:7777..
+[22:17:53.829] Connected. Joining the game...
+[22:17:54.313] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[22:17:56.477] Connected to Romania HarD Stunt - Let's Play!
+
+[22:18:00.068] [CMSG] HeyImAle_(Emperor)(8): am pe ea asa de cunostinta un subaru sti
+[22:18:04.465] [CMSG] S.M.G(VIP)(0): killer pasarik
+[22:18:08.504] DialogEx -> Yeah!
+[22:18:08.504] wDialogID: 611
+szInputResp: 
+[22:18:11.448] [CMSG] killer.pasarik.2 has been kicked by Admin [Drift.Team]_K1L3R_!
+[22:18:11.453] [CMSG] Reason: bot dea lui ghost (Kicks: 1/3)
+[22:18:11.456] [CMSG] HeyImAle_(Emperor)(8): impreza
+[22:18:14.101] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[22:18:39.654]  
+[22:18:39.656] * ===================================================== *
+[22:18:39.658]   Hack iniciado 19/03/2021 22:18:39
+[22:18:39.659] * ===================================================== *
+[22:18:39.662]  
+[22:18:39.664] Connecting to 193.203.39.74:7777..
+[22:18:40.241] Connected. Joining the game...
+[22:18:42.831] Connected to Romania HarD Stunt - Let's Play!
+
+[22:18:44.106]  
+[22:18:44.108] * ===================================================== *
+[22:18:44.111]   Hack iniciado 19/03/2021 22:18:44
+[22:18:44.114] * ===================================================== *
+[22:18:44.115]  
+[22:18:44.116] Connecting to 193.203.39.74:7777..
+[22:18:44.711] Connected. Joining the game...
+[22:18:47.417] Connected to Romania HarD Stunt - Let's Play!
+
+[22:18:48.706] [CMSG] Marius346(VIP)(2): pa noapte buna
+[22:19:17.239]  
+[22:19:17.241] * ===================================================== *
+[22:19:17.244]   Hack iniciado 19/03/2021 22:19:17
+[22:19:17.245] * ===================================================== *
+[22:19:17.250]  
+[22:19:17.250] Connecting to 193.203.39.74:7777..
+[22:19:17.772] Connected. Joining the game...
+[22:19:17.897] [CMSG] RHSBuster: Banned player 'o_sugi_3'. Reason: IP Flood!
+[22:19:17.897] [CMSG] RHSBuster: Banned player 'o_sugi_3'. Reason: IP Flood!
+[22:19:20.494] [SAMP] Connection was closed by the server. Reconnecting in 2 seconds.
+[22:19:25.697] [CMSG] Ursescu(RCON)(1): i-auzi
+[22:19:30.684] [SAMP] The connection was lost. Reconnecting in 2 seconds.
+[22:19:31.275] [SAMP] The connection was lost. Reconnecting in 2 seconds.
+[22:19:31.656] Disconnected.
+[22:19:32.288] Disconnected.
